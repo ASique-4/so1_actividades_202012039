@@ -40,3 +40,12 @@
 - Se usan para notificar al procesador que hay una condición excepcional que debe ser manejada, como un error, una violación de seguridad o una solicitud de un servicio del sistema operativo.
 - El procesador tiene una tabla de descriptores que le indica qué manejador de excepción debe ejecutar para cada tipo de trampa.
 
+
+#### Fuentes
+
+1. https://www.linuxadictos.com/kernel-de-linux-explicamos-la-diferencia-entre-6-tipos-diferentes.html
+2. https://www.geeksforgeeks.org/difference-between-user-mode-and-kernel-mode/
+3. https://www.tutorialspoint.com/difference-between-trap-and-interrupt-in-operating-system
+4. https://techwatch.de/es/blog/una-gu%C3%ADa-completa-para-comprender-los-tipos-y-definiciones-de-n%C3%BAcleos/
+5. https://www.genbeta.com/a-fondo/como-es-el-kernel-de-windows-y-cuales-son-sus-diferencias-con-el-de-linux
+
