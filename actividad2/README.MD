@@ -31,7 +31,7 @@ Este script de Bash realiza las siguientes operaciones:
 - El script debe tener permisos de ejecución
 
 ```bash
-./nombre_del_script.sh
+./script.sh
 ```
 
-Reemplace `nombre_del_script.sh` con el nombre real de este script.
+Reemplace `script.sh` con el nombre real de este script.
