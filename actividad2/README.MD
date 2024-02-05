@@ -33,5 +33,3 @@ Este script de Bash realiza las siguientes operaciones:
 ```bash
 ./script.sh
 ```
-
-Reemplace `script.sh` con el nombre real de este script.
